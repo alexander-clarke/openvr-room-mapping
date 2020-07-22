@@ -10,7 +10,7 @@ reconstruct.py uses COLMAP functions to recoonstruct a scene, using the position
 Python >=3.7 (might work with lesser versions but not tested)
 requirements.txt details the required installs for using the python scripts
 
-[COLMAP](https://colmap.github.io/index.html) is required for the reconstruction. Note that COLMAP requires CUDA for dense reconstruction, and so extra steps are required if a non-Nvidia card is used (insturctions on the COLMAP FAQ).
+[COLMAP](https://colmap.github.io/index.html) is required for the reconstruction. Note that COLMAP requires CUDA for dense reconstruction, and so extra steps are required if a non-Nvidia card is used (instructions on the COLMAP FAQ).
 
 ## Usage
 
