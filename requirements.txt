@@ -1,5 +1,5 @@
 matplotlib==3.2.1
-numpy==1.18.4
+numpy==1.22.0
 openvr==1.11.1101
 Pillow==7.1.2
 scipy==1.4.1
